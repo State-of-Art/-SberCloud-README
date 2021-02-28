@@ -4,4 +4,5 @@
 # Приложение Android
 Репозиторий: [https://github.com/State-of-Art/State_of_The_Cloud_Android](https://github.com/State-of-Art/State_of_The_Cloud_Android)
 
-# Бэкенд (в разработке)
+# Бэкенд
+Репозиторий: [https://github.com/State-of-Art/django-backend](https://github.com/State-of-Art/django-backend)
